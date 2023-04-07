@@ -3,7 +3,14 @@
 
 ## Overview
 
+
+**Poster**
+
+![poster](https://github.com/basbugahmet/Triangle-Battleship/blob/main/poster.jpg)
+
+
 The Triangle Battleship Game is a one-player game where the user creates a triangle battleship, calculating geometrical properties of the ship and surviving from a random shot. If the ship survives, the player gets a point which is the area of the ship.
+
 
 ## Project Features
 
@@ -27,6 +34,18 @@ The Triangle Battleship Game is a one-player game where the user creates a trian
 -   It will be a random shot. If it hits the ship, the ship sinks.
 -   If the ship survives, the player will get the point which is the area of the ship.
 -   At the end of the game, the program should print the high score table. If the player gets a score that is high enough to be on the table, the name of the player is entered and his/her score is shown on the table. If the player gets a score that is equal to a score in the table, the name of the player is placed under the old one.
+
+## Sample Screens
+
+
+**Main Menu**
+
+![inGame1](https://github.com/basbugahmet/Triangle-Battleship/blob/main/Sample%20Screenshots/inGame1.png)
+
+
+**In-Game**
+
+![inGame2](https://github.com/basbugahmet/Triangle-Battleship/blob/main/Sample%20Screenshots/inGame2.jpg)
 
 ## How to Run
 
